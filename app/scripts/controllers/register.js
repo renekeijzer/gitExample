@@ -2,17 +2,16 @@
 
 /**
  * @ngdoc function
- * @name gitexampleApp.controller:AboutCtrl
+ * @name gitexampleApp.controller:RegisterCtrl
  * @description
- * # AboutCtrl
+ * # RegisterCtrl
  * Controller of the gitexampleApp
  */
 angular.module('gitexampleApp')
-  .controller('AboutCtrl', function () {
+  .controller('RegisterCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
       'Karma'
     ];
   });
- 
